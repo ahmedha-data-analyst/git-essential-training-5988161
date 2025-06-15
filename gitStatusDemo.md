@@ -1,0 +1,1 @@
+Using the git status command on the terminal
